@@ -28,7 +28,6 @@ target variable.
 Choose appropriate classification models, such as: Logistic Regression: Simple and interpretable.
 1. Train the model(fit the training datasets)
 2. Predict the model
-3. Deploy the model
 
 **Examples of some visualisations**
 ![Relationship between Credit history and loan amount](image-1.png)
